@@ -42,7 +42,7 @@ const Countries = () => {
 
     return ( 
         <div className="countrie">
-            { erreurCharge &&  <small>Erreur du chargement...</small> }
+            { erreurCharge &&  <small>Erreur du chargement, réessayer plus tard...</small> }
             <div className="sort-container">
                 <input type="range" min="1" max="250" value={nombrePays} onChange={(e) => setnombrePays(e.target.value)} />
                 <ul>
