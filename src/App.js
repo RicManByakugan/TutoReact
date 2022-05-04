@@ -8,7 +8,7 @@ const App = () => {
   return ( 
     <BrowserRouter>
       <Routes>
-        <Route path="/" exact element={<Home/>} />
+        <Route path="/TutoReact" exact element={<Home/>} />
         <Route path="/about" element={<About/>} />
         <Route path="*" element={<NotFound/>} />
       </Routes>
