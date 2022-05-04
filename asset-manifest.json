@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TutoReact/static/css/main.6601ffd7.css",
-    "main.js": "/TutoReact/static/js/main.94fea439.js",
+    "main.js": "/TutoReact/static/js/main.25c7986d.js",
     "index.html": "/TutoReact/index.html",
     "main.6601ffd7.css.map": "/TutoReact/static/css/main.6601ffd7.css.map",
-    "main.94fea439.js.map": "/TutoReact/static/js/main.94fea439.js.map"
+    "main.25c7986d.js.map": "/TutoReact/static/js/main.25c7986d.js.map"
   },
   "entrypoints": [
     "static/css/main.6601ffd7.css",
-    "static/js/main.94fea439.js"
+    "static/js/main.25c7986d.js"
   ]
 }
